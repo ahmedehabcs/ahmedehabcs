@@ -12,7 +12,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mrhoba9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmedehabcs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -20,8 +20,8 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=mrhoba9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ahmedehabcs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mrhoba9&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ahmedehabcs&icon=5&color=0)](https://visitcount.itsvg.in)
