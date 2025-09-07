@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedehabapply@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedehabcs@gmail.com)
 
 # 💻 Tech Stack:
 
