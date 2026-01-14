@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a portfolio of full-stack projects using React, Node.js, Express, and MySQL <br>👯 I’m looking to collaborate on open source projects and real-world web apps <br>🤝 I’m looking for help with backend optimization and secure API design <br>🌱 I’m currently learning advanced authentication, deployment strategies, and basic cybersecurity testing <br>💬 Ask me about React, Tailwind, REST APIs, or how to break into full-stack development <br>⚡ Fun fact: I can debug faster when the lights are off and the terminal is Fullscreen 😎<br>
+🔭 I’m currently working on a portfolio of full-stack projects using React, Node.js, Express, and MongoDB <br>👯 I’m looking to collaborate on open source projects and real-world web apps <br>🤝 I’m looking for help with backend optimization and secure API design <br>🌱 I’m currently learning advanced authentication, deployment strategies, and basic cybersecurity testing <br>💬 Ask me about React, Tailwind, REST APIs, or how to break into full-stack development <br>⚡ Fun fact: I can debug faster when the lights are off and the terminal is Fullscreen 😎<br>
 
 ## 🌐 Socials:
 
